@@ -1,4 +1,4 @@
 snowcone
 ========
 
-my first GitGub repository
+my first GitHub repo
